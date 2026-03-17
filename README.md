@@ -227,6 +227,13 @@ client, err := cloudlayer.NewClient("key", cloudlayer.V2,
 )
 ```
 
+## Other SDKs
+
+- **JavaScript/TypeScript:** [@cloudlayerio/sdk](https://www.npmjs.com/package/@cloudlayerio/sdk) ([GitHub](https://github.com/cloudlayerio/cloudlayerio-js))
+- **Python:** [cloudlayerio](https://pypi.org/project/cloudlayerio/) ([GitHub](https://github.com/cloudlayerio/cloudlayerio-python))
+- **PHP:** [cloudlayerio/sdk](https://packagist.org/packages/cloudlayerio/sdk) ([GitHub](https://github.com/cloudlayerio/cloudlayerio-php))
+- **.NET C#:** [cloudlayerio-dotnet](https://www.nuget.org/packages/cloudlayerio-dotnet/) ([GitHub](https://github.com/cloudlayerio/cloudlayerio-dotnet))
+
 ## License
 
 MIT - see [LICENSE](LICENSE)
